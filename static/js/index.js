@@ -19,3 +19,17 @@ $(document).ready(function() {
     bulmaSlider.attach();
 
 })
+
+// ...existing code...
+document.addEventListener('DOMContentLoaded', function () {
+  for (let i = 1; i <= 15; i++) {
+    bulmaCarousel.attach('.gallery-carousel-' + i, {
+      slidesToScroll: 1,
+      slidesToShow: 1,
+      loop: true,
+      navigation: true,
+      pagination: false
+    });
+  }
+});
+// ...existing code...

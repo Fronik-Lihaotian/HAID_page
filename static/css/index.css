@@ -133,5 +133,25 @@ body {
   font-size: smaller;
 }
 
+.carousel {
+  max-width: 400px; /* 根据实际页面可适当调整 */
+  margin: 0 auto;
+  padding: 0;
+}
 
+.carousel .item img {
+  width: 400px;      /* 图片更大 */
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 
+.columns.is-gapless {
+  margin-left: 100px !important;
+  margin-right: 100px !important;
+}
+
+.column {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
