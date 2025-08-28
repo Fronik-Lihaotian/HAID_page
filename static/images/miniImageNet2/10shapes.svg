@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="916" height="1024">
+<rect x="0" y="0" width="916" height="1024" fill="#607554" />
+<g transform="scale(4.000000) translate(0.5 0.5)">
+<ellipse fill="#ffffff" fill-opacity="0.501961" cx="109" cy="248" rx="88" ry="40" />
+<ellipse fill="#c3ffff" fill-opacity="0.501961" cx="106" cy="59" rx="30" ry="30" />
+<g transform="translate(152.507308 177.481840) rotate(28.006942) scale(128.052005 34.174636)"><ellipse fill="#000010" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<ellipse fill="#00050b" fill-opacity="0.501961" cx="25" cy="186" rx="49" ry="44" />
+<ellipse fill="#bdffff" fill-opacity="0.501961" cx="215" cy="39" rx="25" ry="25" />
+<ellipse fill="#438d00" fill-opacity="0.501961" cx="18" cy="48" rx="65" ry="124" />
+<g transform="translate(110.860268 235.402879) rotate(275.105876) scale(36.413242 58.130778)"><ellipse fill="#ffffe2" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(15.538458 20.003334) rotate(177.009739) scale(22.727464 63.524504)"><ellipse fill="#000e00" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<ellipse fill="#002100" fill-opacity="0.501961" cx="148" cy="16" rx="20" ry="31" />
+<g transform="translate(193.532684 255.000000) rotate(-70.811658) scale(14.622952 39.733046)"><ellipse fill="#fffffb" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+</g>
+</svg>

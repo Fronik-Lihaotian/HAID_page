@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="32" height="32">
+<rect x="0" y="0" width="32" height="32" fill="#5d86b2" />
+<g transform="scale(1.000000) translate(0.5 0.5)">
+<g transform="translate(20 17) rotate(262) scale(5 28)"><rect fill="#ffedc8" fill-opacity="0.501961" x="-0.5" y="-0.5" width="1" height="1" /></g>
+<g transform="translate(22 18) rotate(43) scale(1 14)"><rect fill="#000000" fill-opacity="0.501961" x="-0.5" y="-0.5" width="1" height="1" /></g>
+<polygon fill="#d12d26" fill-opacity="0.501961" points="-1,3 4,19 8,15" />
+<polygon fill="#367fcb" fill-opacity="0.501961" points="32.289127,-16.000000,-14.992130,-5.991808,8.990297,12.172001,47.000000,15.209694" />
+<rect fill="#152a23" fill-opacity="0.501961" x="5" y="21" width="15" height="2" />
+<ellipse fill="#000000" fill-opacity="0.501961" cx="22" cy="19" rx="2" ry="2" />
+<g transform="translate(14 17) rotate(167) scale(15 2)"><rect fill="#edf3fd" fill-opacity="0.501961" x="-0.5" y="-0.5" width="1" height="1" /></g>
+<polygon fill="#428acb" fill-opacity="0.501961" points="47,25 -16,47 -4,21" />
+<polygon fill="#e3eee6" fill-opacity="0.501961" points="32,15 27,14 24,19" />
+<polygon fill="#7b0f00" fill-opacity="0.501961" points="5,20 6,15 4,13" />
+</g>
+</svg>

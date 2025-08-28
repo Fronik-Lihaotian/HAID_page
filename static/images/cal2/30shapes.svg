@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="500" height="500">
+<rect x="0" y="0" width="500" height="500" fill="#a29b91" />
+<g transform="scale(1.953125) translate(0.5 0.5)">
+<polygon fill="#000000" fill-opacity="0.501961" points="91,-9 239,213 29,230" />
+<polygon fill="#ffffff" fill-opacity="0.501961" points="138,-14 271,-6 251,271" />
+<g transform="translate(6.520972 131.465337) rotate(194.108007) scale(43.373104 255.000000)"><ellipse fill="#ffffff" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(159.109211 245.405667) rotate(264.928351) scale(19.622762 202.629903)"><ellipse fill="#ffffff" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<ellipse fill="#150000" fill-opacity="0.501961" cx="121" cy="144" rx="72" ry="72" />
+<g transform="translate(188.066237 11.518817) rotate(6.836735) scale(252.123877 18.105241)"><ellipse fill="#ffffff" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(232.409401 102.897083) rotate(69.248208) scale(130.652532 47.452007)"><ellipse fill="#ffffff" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(140.727477 70.328038) rotate(159.240834) scale(30.944578 57.353551)"><ellipse fill="#693e21" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(36.051075 26.140170) rotate(124.448609) scale(158.191061 46.166900)"><ellipse fill="#fffffe" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(29.557314 229.009454) rotate(367.889522) scale(17.725965 37.658084)"><ellipse fill="#fdfff3" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<polygon fill="#1d1206" fill-opacity="0.501961" points="48.390054,241.731709,86.379890,232.202199,176.974466,158.711926,58.318691,84.682930" />
+<ellipse fill="#0d0000" fill-opacity="0.501961" cx="195" cy="206" rx="39" ry="15" />
+<g transform="translate(175.896362 248.874434) rotate(264.414282) scale(16.319467 214.369801)"><ellipse fill="#ffffff" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<polygon fill="#130800" fill-opacity="0.501961" points="33.852295,173.502112,50.119642,211.514138,70.502772,154.930733,48.062524,143.696850" />
+<rect fill="#fff8e8" fill-opacity="0.501961" x="0" y="2" width="57" height="139" />
+<polygon fill="#d1d5d8" fill-opacity="0.501961" points="104,218 68,271 177,216" />
+<ellipse fill="#744d35" fill-opacity="0.501961" cx="115" cy="63" rx="47" ry="47" />
+<g transform="translate(214.257268 47.639115) rotate(201.076902) scale(41.417562 59.774610)"><ellipse fill="#fffffc" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(165.827941 131.809160) rotate(365.214949) scale(22.185723 43.632095)"><ellipse fill="#18140c" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<ellipse fill="#ffffff" fill-opacity="0.501961" cx="118" cy="0" rx="54" ry="17" />
+<polygon fill="#cca07d" fill-opacity="0.501961" points="108.492939,81.730516,139.766006,92.827562,104.328709,57.568896,132.325812,33.129433" />
+<ellipse fill="#000000" fill-opacity="0.501961" cx="128" cy="68" rx="11" ry="11" />
+<g transform="translate(137.707722 96.063160) rotate(126.599296) scale(48.542238 15.065025)"><ellipse fill="#745d4e" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<polygon fill="#332219" fill-opacity="0.501961" points="133,103 81,48 53,106" />
+<polygon fill="#dce0cb" fill-opacity="0.501961" points="219.075650,201.926442,183.194889,92.855676,192.496819,151.813973,271.000000,97.199518" />
+<ellipse fill="#362311" fill-opacity="0.501961" cx="190" cy="184" rx="21" ry="38" />
+<polygon fill="#e7b287" fill-opacity="0.501961" points="149.576616,69.369603,124.577757,42.708167,142.163139,43.977513,138.799228,90.068077" />
+<polygon fill="#2f0e07" fill-opacity="0.501961" points="146.407217,39.731797,152.877683,67.502715,127.254088,26.949499,112.504601,31.542462" />
+<rect fill="#dedac9" fill-opacity="0.501961" x="0" y="96" width="38" height="137" />
+<polygon fill="#1f150d" fill-opacity="0.501961" points="64,236 39,161 134,199" />
+</g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1024" height="680">
+<rect x="0" y="0" width="1024" height="680" fill="#5a4e3f" />
+<g transform="scale(4.000000) translate(0.5 0.5)">
+<ellipse fill="#cdb39b" fill-opacity="0.501961" cx="96" cy="24" rx="66" ry="66" />
+<ellipse fill="#fafdf8" fill-opacity="0.501961" cx="231" cy="86" rx="28" ry="28" />
+<g transform="translate(23.893254 122.650093) rotate(231.487744) scale(255.000000 46.999621)"><ellipse fill="#000000" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(210.738432 22.128946) rotate(-27.167134) scale(59.286689 40.765313)"><ellipse fill="#1f0c00" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(218.260821 169.000000) rotate(173.765750) scale(139.972533 32.596727)"><ellipse fill="#00000c" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(140.870435 13.503758) rotate(307.410728) scale(12.662728 19.815304)"><ellipse fill="#fffffe" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(183.435068 95.151459) rotate(312.535709) scale(51.056486 20.763061)"><ellipse fill="#a27d55" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(132.264200 65.659415) rotate(133.027205) scale(50.276973 16.623146)"><ellipse fill="#824618" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(19.998725 152.016919) rotate(326.767121) scale(34.065060 102.307280)"><ellipse fill="#000000" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<g transform="translate(115 45) rotate(141) scale(35 18)"><rect fill="#eadccb" fill-opacity="0.501961" x="-0.5" y="-0.5" width="1" height="1" /></g>
+<g transform="translate(98.427188 87.415011) rotate(216.296444) scale(16.020192 12.897148)"><ellipse fill="#eda671" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<ellipse fill="#698289" fill-opacity="0.501961" cx="239" cy="118" rx="41" ry="15" />
+<ellipse fill="#220c00" fill-opacity="0.501961" cx="53" cy="60" rx="10" ry="8" />
+<ellipse fill="#62737d" fill-opacity="0.501961" cx="53" cy="13" rx="56" ry="31" />
+<g transform="translate(128.148492 26.397511) rotate(213.020081) scale(36.919571 7.522670)"><ellipse fill="#673311" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<ellipse fill="#403423" fill-opacity="0.501961" cx="92" cy="129" rx="35" ry="35" />
+<g transform="translate(191.530342 65.146004) rotate(12.437032) scale(31.956328 6.975775)"><ellipse fill="#282313" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<ellipse fill="#ffffdb" fill-opacity="0.501961" cx="143" cy="7" rx="15" ry="17" />
+<g transform="translate(238 74) rotate(12) scale(26 28)"><rect fill="#c5d7e2" fill-opacity="0.501961" x="-0.5" y="-0.5" width="1" height="1" /></g>
+<rect fill="#c78454" fill-opacity="0.501961" x="49" y="80" width="47" height="16" />
+<ellipse fill="#825f39" fill-opacity="0.501961" cx="146" cy="112" rx="30" ry="37" />
+<g transform="translate(84.673833 44.848430) rotate(-40.032399) scale(31.890611 27.341100)"><ellipse fill="#9d958b" fill-opacity="0.501961" cx="0" cy="0" rx="1" ry="1" /></g>
+<polygon fill="#acaaa0" fill-opacity="0.501961" points="169.838903,82.947544,188.529041,114.184653,185.383646,70.771968,169.120591,72.222395" />
+<rect fill="#00090c" fill-opacity="0.501961" x="247" y="73" width="9" height="7" />
+<polygon fill="#e0be9d" fill-opacity="0.501961" points="196.984526,73.805671,271.000000,80.000827,240.893504,106.995300,199.544335,92.189513" />
+<rect fill="#5d5041" fill-opacity="0.501961" x="191" y="96" width="30" height="19" />
+<polygon fill="#25160b" fill-opacity="0.501961" points="124.674037,47.528800,121.720236,117.949712,113.852940,78.266211,108.039239,70.375913" />
+<g transform="translate(141 98) rotate(10) scale(20 6)"><rect fill="#000000" fill-opacity="0.501961" x="-0.5" y="-0.5" width="1" height="1" /></g>
+<ellipse fill="#775d3d" fill-opacity="0.501961" cx="82" cy="133" rx="15" ry="13" />
+<rect fill="#cd7f42" fill-opacity="0.501961" x="187" y="51" width="8" height="24" />
+</g>
+</svg>

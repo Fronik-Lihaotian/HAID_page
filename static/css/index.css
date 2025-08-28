@@ -21,6 +21,15 @@ body {
 .teaser .hero-body {
   padding-top: 0;
   padding-bottom: 3rem;
+  padding-top: 3rem !important;    /* 顶部空间 */
+  padding-bottom: 5rem !important; /* 底部空间 */
+}
+
+@media (max-width: 768px) {
+  .teaser .hero-body {
+    padding-top: 1.8rem !important;
+    padding-bottom: 2.5rem !important;
+  }
 }
 
 .teaser {
@@ -111,13 +120,18 @@ body {
 }
 
 .results-carousel {
+  max-width: 100%;
+  height: 400px; /* 根据实际页面可适当调整 */
   overflow: hidden;
 }
 
 .results-carousel .item {
-  margin: 5px;
+  width: 600px;
+  height: 300px;
+  box-sizing: border-box;
+  margin: 0px;
   overflow: hidden;
-  padding: 20px;
+  padding: 0px;
   font-size: 0;
 }
 
@@ -134,24 +148,75 @@ body {
 }
 
 .carousel {
-  max-width: 400px; /* 根据实际页面可适当调整 */
-  margin: 0 auto;
+  max-width: 500px;
+  height: 300px;
+  margin: 0;
   padding: 0;
+  overflow: hidden !important; /* 确保内容不会溢出 */
+}
+
+.carousel .item {
+  width: 100% !important;
+  min-width: 100% !important;
+  flex: 0 0 100% !important;
+  box-sizing: border-box;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important; /* 确保图片不会溢出 */
+  position: relative;
 }
 
 .carousel .item img {
-  width: 400px;      /* 图片更大 */
-  height: auto;
   display: block;
-  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: relative;
+}
+
+/* 确保轮播容器本身也不会溢出 */
+.carousel-container {
+  overflow: hidden !important;
 }
 
 .columns.is-gapless {
-  margin-left: 100px !important;
-  margin-right: 100px !important;
+  margin-left: 10px !important;
+  margin-right: 10px !important;
 }
 
 .column {
-  padding-left: 0 !important;
-  padding-right: 0 !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.hero-body {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+/* 防止轮播内元素被选中或图片被拖动，减少误触 */
+.carousel, .carousel * {
+  -webkit-user-select: none !important;
+  -moz-user-select: none !important;
+  -ms-user-select: none !important;
+  user-select: none !important;
+  -webkit-tap-highlight-color: transparent !important;
+}
+
+.carousel img {
+  -webkit-user-drag: none !important;
+  user-drag: none !important;
+  pointer-events: auto; /* 保证点击仍然生效 */
+  display: block;
+}
+
+/* 去掉轮播项被 focus 时的默认 outline（如键盘导航需要可改回）*/
+.carousel .item:focus {
+  outline: none !important;
+}
+
+/* 防止按钮/链接文本被误选 */
+.button, .external-link {
+  -webkit-user-select: none !important;
+  user-select: none !important;
 }
