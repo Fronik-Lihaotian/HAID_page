@@ -174,6 +174,24 @@ body {
   position: relative;
 }
 
+.carousel .item .subtitle {
+  position: absolute;
+  left: 8px;
+  right: 8px;
+  bottom: 6px;
+  margin: 0;
+  font-size: 0.9rem;                /* 覆盖父元素的 font-size:0 */
+  text-align: center;
+  background: rgba(255,255,255,0.75);
+  padding: 4px 8px;
+  color: #111;
+  border-radius: 4px;
+  box-sizing: border-box;
+  pointer-events: none;             /* 避免影响轮播交互 */
+}
+
+.carousel .item { position: relative; }
+
 /* 确保轮播容器本身也不会溢出 */
 .carousel-container {
   overflow: hidden !important;
