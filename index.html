@@ -658,7 +658,36 @@
             <p>Results of Faster-RCNN initialized by ResNet50 backbones</p>
         </div>
         </div>
-    </div>
+        <h2 class="title is-3">User study</h2>
+        <div class="content has-text-justified">
+            <p>We also conduct a user study to evaluate how well humans can recognize objects
+              in abstract images at different levels of abstraction. We select 36 images in 
+              total across six levels (30, 50, 100, 500, 1,000 shapes, and original images) 
+              from HAID-MiniImageNet and MiniImageNet (each level contains 6 images). Images 
+              for each abstract level were balanced by a priori difficulty: three single-object 
+              images with the simple background (labelled "easy samples") and three images with 
+              multiple objects, complex textures, or cluttered scenes (labelled "hard samples"). 
+              Participants viewed all 36 images in randomised order and provided a single 1-5 
+              rating per image reflecting how confident they are to perceive the object(s) 
+              (1 = cannot recognise at all, 5 = extremely confident). The user study shows that: 
+            <strong>1. HAID abstractions retain perceptually relevant structure: at moderate-to-high 
+              fidelity (500 and 1,000 primitives), observers report confidence of perception close to 
+              original images. 2. Harder samples require more primitives to reach comparable perceptual 
+              clarity, suggesting adaptive allocation of abstraction budget may benefit recognition 
+              tasks that require fine-grained discrimination. </strong>  
+            </p>
+            <div class="columns is-centered">
+              <div class="column has-text-centered">
+                  <img src="static/images/user_all_mean_bar.svg" alt="User Study bar chart" width="500px">
+                  <!-- <p>User study results on HAID-MiniImageNet and MiniImagenet</p> -->
+              </div>
+              <div class="column has-text-centered">
+                  <img src="static/images/user_line_chart.svg" alt="User Study line chart" width="500px">
+                  <!-- <p>User study results on HAID-MiniImageNet and MiniImagenet</p> -->
+              </div>
+            </div>
+            <p class="content has-text-centered">Left: Mean Opinion Score (MOS) of all samples. Right: MOS for easy and hard samples.</p>
+        </div>
     </section>
 <!-- End Results Section -->
 
